@@ -1,0 +1,29 @@
+13/10/06 21:34:25 INFO mapred.JobClient:     Launched map tasks=10
+13/10/06 21:34:25 INFO mapred.JobClient:     Data-local map tasks=10
+13/10/06 21:34:25 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=10698
+13/10/06 21:34:25 INFO mapred.JobClient:   File Output Format Counters 
+13/10/06 21:34:25 INFO mapred.JobClient:     Bytes Written=8882817
+13/10/06 21:34:25 INFO mapred.JobClient:   FileSystemCounters
+13/10/06 21:34:25 INFO mapred.JobClient:     FILE_BYTES_READ=8882526
+13/10/06 21:34:25 INFO mapred.JobClient:     HDFS_BYTES_READ=8883070
+13/10/06 21:34:25 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=18380604
+13/10/06 21:34:25 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=8882817
+13/10/06 21:34:25 INFO mapred.JobClient:   File Input Format Counters 
+13/10/06 21:34:25 INFO mapred.JobClient:     Bytes Read=8881900
+13/10/06 21:34:25 INFO mapred.JobClient:   Map-Reduce Framework
+13/10/06 21:34:25 INFO mapred.JobClient:     Map output materialized bytes=8882580
+13/10/06 21:34:25 INFO mapred.JobClient:     Map input records=10
+13/10/06 21:34:25 INFO mapred.JobClient:     Reduce shuffle bytes=8882580
+13/10/06 21:34:25 INFO mapred.JobClient:     Spilled Records=20
+13/10/06 21:34:25 INFO mapred.JobClient:     Map output bytes=8882470
+13/10/06 21:34:25 INFO mapred.JobClient:     Total committed heap usage (bytes)=1318744064
+13/10/06 21:34:25 INFO mapred.JobClient:     CPU time spent (ms)=30870
+13/10/06 21:34:25 INFO mapred.JobClient:     Combine input records=0
+13/10/06 21:34:25 INFO mapred.JobClient:     SPLIT_RAW_BYTES=1170
+13/10/06 21:34:25 INFO mapred.JobClient:     Reduce input records=10
+13/10/06 21:34:25 INFO mapred.JobClient:     Reduce input groups=10
+13/10/06 21:34:25 INFO mapred.JobClient:     Combine output records=0
+13/10/06 21:34:25 INFO mapred.JobClient:     Physical memory (bytes) snapshot=1800224768
+13/10/06 21:34:25 INFO mapred.JobClient:     Reduce output records=10
+13/10/06 21:34:25 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=10708406272
+13/10/06 21:34:25 INFO mapred.JobClient:     Map output records=10

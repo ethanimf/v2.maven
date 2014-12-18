@@ -1,0 +1,28 @@
+13/10/07 08:06:19 INFO mapred.JobClient:     Launched map tasks=40
+13/10/07 08:06:19 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=27803
+13/10/07 08:06:19 INFO mapred.JobClient:   File Output Format Counters 
+13/10/07 08:06:19 INFO mapred.JobClient:     Bytes Written=9333220
+13/10/07 08:06:19 INFO mapred.JobClient:   FileSystemCounters
+13/10/07 08:06:19 INFO mapred.JobClient:     FILE_BYTES_READ=9669486
+13/10/07 08:06:19 INFO mapred.JobClient:     HDFS_BYTES_READ=9000400
+13/10/07 08:06:19 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=21670422
+13/10/07 08:06:19 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=9333220
+13/10/07 08:06:19 INFO mapred.JobClient:   File Input Format Counters 
+13/10/07 08:06:19 INFO mapred.JobClient:     Bytes Read=8995720
+13/10/07 08:06:19 INFO mapred.JobClient:   Map-Reduce Framework
+13/10/07 08:06:19 INFO mapred.JobClient:     Map output materialized bytes=9669720
+13/10/07 08:06:19 INFO mapred.JobClient:     Map input records=65650
+13/10/07 08:06:19 INFO mapred.JobClient:     Reduce shuffle bytes=9669720
+13/10/07 08:06:19 INFO mapred.JobClient:     Spilled Records=131300
+13/10/07 08:06:19 INFO mapred.JobClient:     Map output bytes=9472640
+13/10/07 08:06:19 INFO mapred.JobClient:     Total committed heap usage (bytes)=6059364352
+13/10/07 08:06:19 INFO mapred.JobClient:     CPU time spent (ms)=51050
+13/10/07 08:06:19 INFO mapred.JobClient:     Combine input records=0
+13/10/07 08:06:19 INFO mapred.JobClient:     SPLIT_RAW_BYTES=4680
+13/10/07 08:06:19 INFO mapred.JobClient:     Reduce input records=65650
+13/10/07 08:06:19 INFO mapred.JobClient:     Reduce input groups=6565
+13/10/07 08:06:19 INFO mapred.JobClient:     Combine output records=0
+13/10/07 08:06:19 INFO mapred.JobClient:     Physical memory (bytes) snapshot=7032541184
+13/10/07 08:06:19 INFO mapred.JobClient:     Reduce output records=65650
+13/10/07 08:06:19 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=40416489472
+13/10/07 08:06:19 INFO mapred.JobClient:     Map output records=65650
